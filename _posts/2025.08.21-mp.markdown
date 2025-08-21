@@ -1,0 +1,11 @@
+---
+layout:  post
+title:  "测试"
+author:  "杀手兔"
+header-style:  text
+catalog:  true
+tags:
+    -test
+    -first
+---
+测试
